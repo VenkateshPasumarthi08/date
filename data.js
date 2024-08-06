@@ -2,7 +2,7 @@ import React from 'react'
 
 function data() {
   return (
-    <div>data</div>
+    <div>This is learning git again</div>
   )
 }
 
